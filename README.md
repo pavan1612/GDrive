@@ -1,16 +1,23 @@
-# GDrive_connect
+# GDrive 
 
-A new Flutter project.
+GDrive is a Google plugin to upload and delete files from Google Drive 
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Use the package manager to install all the dependencies 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```dart
+flutter pub get
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+```dart
+flutter run 
+```
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
